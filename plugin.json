@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "boxtoplay",
+  "description": "MCP-ready hosting provider for Minecraft, BungeeCord, TeamSpeak, VPS and many other game servers.",
+  "version": "1.0.2",
+  "author": {
+    "name": "BoxToPlay",
+    "email": "contact@boxtoplay.com"
+  },
+  "homepage": "https://www.boxtoplay.com/",
+  "repository": "https://github.com/boxtoplay-hosting/mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "minecraft",
+    "bungeecord",
+    "teamspeak",
+    "vps",
+    "hosting"
+  ],
+  "logo": "assets/logo.png"
+}
