@@ -1,12 +1,24 @@
 # BoxToPlay MCP
 
-Remote MCP server for BoxToPlay hosting. Manage the Minecraft servers, BungeeCord / Velocity proxies, TeamSpeak servers and VPS you own at BoxToPlay from an MCP-compatible client.
+Your game servers, managed in plain conversation.
 
-The server runs at `https://api.boxtoplay.com/mcp`.
+Connect your BoxToPlay account to your AI assistant and simply ask for what you would normally click through in a control panel:
 
-## Use it
+- "Why won't my Minecraft server start?" Your assistant checks its status, health report and latest logs, then tells you what is wrong and how to fix it.
+- "Install the Create mod and restart the server." Done, and your assistant waits until it is back online before answering.
 
-Connect the server, sign in with your BoxToPlay account and choose an access profile. Then ask your assistant to check the status of a server, read its latest logs, restart it, install a modpack or a plugin, manage backups or administer a VPS. Long operations run as jobs that the assistant follows until they finish. Tools that change a service are marked as destructive, so your client can ask for your approval before running them.
+## What you can do
+
+- **Fix problems faster**: your assistant reads crash logs, startup errors and server health for you and explains them in plain words.
+- **Customize in seconds**: install modpacks, mods, plugins, datapacks and Bedrock add-ons, edit configuration files, manage worlds.
+- **Stay in control**: start, stop and restart, schedule tasks, create backups before risky changes and restore them.
+- **Run your whole community**: Minecraft servers, BungeeCord and Velocity networks, TeamSpeak servers and VPS, all from the same chat.
+
+## Safe by design
+
+You sign in with your own BoxToPlay account and choose what your assistant may do: read only, basic control or full access. It only reaches the services you own, and every change is marked so your client can ask for your approval first. It never buys, renews or pays for anything.
+
+New to BoxToPlay? Create your Minecraft, TeamSpeak or VPS server at [boxtoplay.com](https://www.boxtoplay.com/), then connect it.
 
 ## Connect
 
