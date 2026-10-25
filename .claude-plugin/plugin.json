@@ -1,0 +1,26 @@
+{
+  "name": "boxtoplay",
+  "displayName": "BoxToPlay",
+  "version": "1.0.2",
+  "description": "Manage your BoxToPlay Minecraft servers, BungeeCord / Velocity proxies, TeamSpeak servers and VPS through the BoxToPlay remote MCP server.",
+  "author": {
+    "name": "BoxToPlay",
+    "email": "contact@boxtoplay.com",
+    "url": "https://www.boxtoplay.com/"
+  },
+  "homepage": "https://www.boxtoplay.com/",
+  "repository": "https://github.com/boxtoplay-hosting/mcp",
+  "license": "MIT",
+  "keywords": [
+    "minecraft",
+    "bungeecord",
+    "velocity",
+    "teamspeak",
+    "vps",
+    "hosting"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://api.boxtoplay.com/docs",
+  "privacyPolicyUrl": "https://www.boxtoplay.com/en/privacy",
+  "termsOfServiceUrl": "https://www.boxtoplay.com/en/cgv"
+}
