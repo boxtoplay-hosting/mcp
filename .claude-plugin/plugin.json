@@ -2,7 +2,7 @@
   "name": "boxtoplay",
   "displayName": "BoxToPlay",
   "version": "1.0.2",
-  "description": "Manage your BoxToPlay Minecraft servers, BungeeCord / Velocity proxies, TeamSpeak servers and VPS through the BoxToPlay remote MCP server.",
+  "description": "Run your Minecraft, TeamSpeak and VPS servers just by asking: fix crashes, install mods and restart, without opening a control panel.",
   "author": {
     "name": "BoxToPlay",
     "email": "contact@boxtoplay.com",
