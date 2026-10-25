@@ -21,6 +21,7 @@
   ],
   "icon": "./assets/logo.png",
   "documentationUrl": "https://api.boxtoplay.com/docs",
+  "supportUrl": "https://www.boxtoplay.com/tickets",
   "privacyPolicyUrl": "https://www.boxtoplay.com/en/privacy",
   "termsOfServiceUrl": "https://www.boxtoplay.com/en/cgv"
 }
